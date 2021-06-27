@@ -1,12 +1,12 @@
 {
-    "radarr.Age": "Age",
-    "radarr.All": "All",
-    "radarr.AddMovie": "Add Movie",
-    "radarr.AddMovieAndSearch": "Add + Search",
-    "radarr.Alphabetical": "Alphabetical",
-    "radarr.Approved": "Approved",
-    "radarr.Automatic": "Automatic",
-    "radarr.AvailabilityUnknown": "Availability Unknown",
+    "radarr.Age": "Kor",
+    "radarr.All": "Összes",
+    "radarr.AddMovie": "Film hozzáadása",
+    "radarr.AddMovieAndSearch": "Hozzáadás + Keresés",
+    "radarr.Alphabetical": "ABC",
+    "radarr.Approved": "Jóváhagyott",
+    "radarr.Automatic": "Automatikus",
+    "radarr.AvailabilityUnknown": "Elérhetőség ismeretlen",
     "radarr.AvailableIn": "Available in {}",
     "radarr.AvailableToday": "Available Today",
     "radarr.BackupDatabase": "Backup Database",
@@ -94,7 +94,7 @@
     "radarr.UpdateLibrary": "Update Library",
     "radarr.UpdateMovie": "Update Movie",
     "radarr.ViewWebGUI": "View Web GUI",
-    "radarr.Wanted": "Wanted",
-    "radarr.Weight": "Weight",
-    "radarr.Year": "Year"
+    "radarr.Wanted": "Kívánatos",
+    "radarr.Weight": "Súly",
+    "radarr.Year": "Év"
 }
